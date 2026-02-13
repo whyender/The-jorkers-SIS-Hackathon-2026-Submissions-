@@ -1,5 +1,3 @@
-# Submissions Folder
+# petfindrr
 
-Each team must create a folder inside this directory using:
-
-teamname-projectname
+A new Flutter project.
